@@ -3,6 +3,6 @@
 def display_rainbow(input)
   colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
   if input == colors
-    puts "R: #{colors[0]}, O: #{colors[0]}, Y: #{colors[0]}, G: #{colors[0]}, B: #{colors[0]}, I: indigo, V: violet\n"
+    puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: indigo, V: #{colors[5]}\n"
   end
 end 
